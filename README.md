@@ -1,3 +1,1 @@
-# learning :
-
-When two branches are merged the commit log will be time ordered. Irrespective of when the commits are pushed/pulled etc.
+IyBsZWFybmluZyA6CgpXaGVuIHR3byBicmFuY2hlcyBhcmUgbWVyZ2VkIHRoZSBjb21taXQgbG9nIHdpbGwgYmUgdGltZSBvcmRlcmVkLiBJcnJlc3BlY3RpdmUgb2Ygd2hlbiB0aGUgY29tbWl0cyBhcmUgcHVzaGVkL3B1bGxlZCBldGMuCgpHZW4gQUkgSGFja2F0aG9uCg==
